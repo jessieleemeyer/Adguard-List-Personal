@@ -1,0 +1,13 @@
+@@||epdg.epc.att.net^$important
+@@||mms.att.net^$important
+@@||mobile.att.net^$important
+@@||private.att.net^$important
+@@||sentitlement2.mobile.att.net^$important
+@@||vvm.mobile.att.net^$important
+@@||*.3gppnetwork.org^$important
+@@||wo.vzwwo.com$important
+@@||primgw.vowifi2.spcsdns.net$important
+@@||epdg.epc.mnc260.mcc310.pub.3gppnetwork.org$important
+@@||ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org$important
+@@||ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org$important
+@@||us.tracfone.rcs.telephony.goog$important
