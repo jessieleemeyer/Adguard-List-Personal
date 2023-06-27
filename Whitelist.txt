@@ -97,6 +97,7 @@
 @@||youtube.com$app=com.google.android.youtube^$important
 @@||ggpht.com$app=com.google.android.youtube^$important
 @@||ytimg.com$app=com.google.android.youtube^$important
+@@||s.youtube.com^$important
 ! PS App
 @@||playstation.com$app=com.scee.psxandroid^$important
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/3419
@@ -210,4 +211,5 @@
 @@||search16-normal-c-useast1a.tiktokv.com^$important
 @@||a1838.dscw154.akamai.net^$important
 @@||e673.dscx.akamaiedge.net^$important
+@@||mon16-platform-useast5.us.tiktokv.com^$important
 
