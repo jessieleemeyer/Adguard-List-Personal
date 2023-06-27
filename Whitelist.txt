@@ -1,0 +1,167 @@
+! Google
+@@||0.client-channel.google.com^$important
+@@||2.android.pool.ntp.org^$important
+@@||clients1.google.com^$important
+@@||clients2.google.com^$important
+@@||clients3.google.com^$important
+@@||clients4.google.com^$important
+@@||clients5.google.com^$important
+@@||clients6.google.com^$important
+@@||cse.google.com^$important
+@@||googleapis.com^$important
+@@||gstatic.com^$important
+@@||manifest.googlevideo.com^$important
+@@||redirector.googlevideo.com^$important
+@@||video-stats.l.google.com^$important
+@@||geo3.ggpht.com^$important
+@@||yt3.ggpht.com^$important
+@@||drive.google.com^$important
+! Youtube
+@@||youtube.com^$important
+@@||youtubekids.com^$important
+@@||s2.youtube.com^$important
+@@||youtu.be^$important
+@@||youtube-nocookie.com^$important
+@@||i.ytimg.com^$important
+@@||i1.ytimg.com^$important
+@@||s.ytimg.com^$important
+! For Youtube history
+@@||s.youtube.com^$important
+! Github
+@@||github.com^$important
+@@||github.io^$important
+@@||camo.githubusercontent.com^$important
+@@||user-images.githubusercontent.com^$important
+@@||avatars.githubusercontent.com^$important
+@@||raw.githubusercontent.com^$important
+! app.github.media
+@@||s88570519.t.en25.com^$important
+@@||p04e.t.en25.com^$important
+@@||t.en25.com^$important
+! CBS Television Stream
+@@||cbsi.com^$important
+@@||cbsinteractive.hb.omtrdc.net^$important
+@@||s0.2mdn.net^$important
+! Audioscrobbler.com
+@@||ws.audioscrobbler.com^$important
+! Netflix
+@@||api-global.netflix.com^$important
+@@||ichnaea.netflix.com^$important
+@@||appboot.netflix.com^$important
+@@||secure.netflix.com^$important
+! Amazon Prime Video and Amazon CDN
+@@||eu.api.amazonvideo.com^$important
+@@||device-metrics-us.amazon.com^$important
+@@||fls-eu.amazon.com^$important
+@@||fls-na.amazon.com^$important
+@@||cloudfront.net^$important
+@@||device-metrics-us-2.amazon.com^$important
+@@||images-amazon.com^$important
+@@||amazonaws.com^$important
+! Disney+ Streaming
+@@||cdn.registerdisney.go.com^$important
+@@||dssott.com^$important
+@@||disneyplus.com^$important
+@@||disney-plus.net^$important
+@@||cws.conviva.com^$important
+@@||disneyplus.bn5x.net^$important
+@@||disney-portal.my.onetrust.com^$important
+@@||bamgrid.com^$important
+@@||disneyplus.com.ssl.sc.omtrdc.net^$important
+@@||cws-sjc2.conviva.com^$important
+@@||cws-iad1.conviva.com^$important
+@@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
+@@||disney.demdex.net^$important
+! Twitch client
+@@||cdn-gl.imrworldwide.com^$important
+@@||seccdn-gl.imrworldwide.com^$important
+@@||client-event-reporter.twitch.tv^$important
+! WhatsApp
+! https://github.com/AdguardTeam/AdguardForAndroid/issues/376
+@@||whatsapp.net^$important
+! Twitter
+@@||cdn.syndication.twimg.com^$important
+@@||cdn.syndication.twitter.com^$important
+@@||syndication.twimg.com^$important
+@@||pbs.twimg.com^$important
+! Google play services: https://github.com/AdguardTeam/AdguardForAndroid/issues/1894
+@@||googleapis.com$app=com.google.android.gms^$important
+@@||myaccount.google.com$app=com.google.android.gms^$important
+@@||www.google.com$app=com.google.android.gms^$important
+@@||gvt1.com$app=com.google.android.gms^$important
+! Play Services fonts
+@@||fonts.gstatic.com$app=com.google.android.gms^$important
+! YouTube
+@@||googleusercontent.com$app=com.google.android.youtube^$important
+@@||youtubei.googleapis.com$app=com.google.android.youtube^$important
+@@||youtube.com$app=com.google.android.youtube^$important
+@@||ggpht.com$app=com.google.android.youtube^$important
+@@||ytimg.com$app=com.google.android.youtube^$important
+! PS App
+@@||playstation.com$app=com.scee.psxandroid^$important
+! https://github.com/AdguardTeam/AdguardForAndroid/issues/3419
+@@||store.hispace.hicloud.com$app=com.huawei.gameassistant^$important
+@@||zoom.us^$important
+! https://github.com/AdguardTeam/AdguardForAndroid/issues/3729
+@@||app.adjust.com$app=com.azure.authenticator^$important
+! Router interfaces
+@@||fritz.box^$important
+@@||speedport.ip^$important
+@@||easy.box^$important
+@@||tplinkwifi.net^$important
+@@||192.168.0.1^$important
+@@||192.168.1.1^$important
+@@||192.168.2.1^$important
+@@||192.168.178.1^$important
+@@||192.168.8.1^$important
+@@||192.168.40.1^$important
+@@||192.168.47.1^$important
+! Discord
+@@||dis.gd^$important
+@@||discord-activities.com^$important
+@@||discord.co^$important
+@@||discord.com^$important
+@@||discord.design^$important
+@@||discord.dev^$important
+@@||discord.gg^$important
+@@||discord.gift^$important
+@@||discord.gifts^$important
+@@||discord.media^$important
+@@||discord.new^$important
+@@||discord.store^$important
+@@||discord.tools^$important
+@@||discordactivities.com^$important
+@@||discordapp.com^$important
+@@||discordapp.io^$important
+@@||discordapp.net^$important
+@@||discordcdn.com^$important
+@@||discordmerch.com^$important
+@@||discordpartygames.com^$important
+@@||discordsays.com^$important
+@@||discordstatus.com^$important
+! Discord Server
+@@||discords.com^$important
+! Steam
+@@||s.team^$important
+@@||steam-chat.com^$important
+@@||steamchina.com^$important
+@@||steamcommunity.com^$important
+@@||steamcontent.com^$important
+@@||steamgames.com^$important
+@@||steampowered.com^$important
+@@||steampowered.com.8686c.com^$important
+@@||steamstatic.com^$important
+@@||steamstatic.com.8686c.com^$important
+@@||steamusercontent.com^$important
+@@||valve.net^$important
+@@||valvesoftware.com^$important
+! Twitch
+@@||ext-twitch.tv^$important
+@@||jtvnw.net^$important
+@@||live-video.net^$important
+@@||ttvnw.net^$important
+@@||twitch.okta.com^$important
+@@||twitch.tv^$important
+@@||twitchcdn.net^$important
+@@||twitchsvc.net^$important
+
