@@ -275,4 +275,5 @@ lm.facebook.com
 media4.giphy.com
 l.facebook.com
 
-
+!Windows
+apps.microsoft.com
