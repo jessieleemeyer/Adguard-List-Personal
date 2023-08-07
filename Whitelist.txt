@@ -277,3 +277,6 @@ l.facebook.com
 
 !Windows
 apps.microsoft.com
+
+!Podcasts
+chtbl.com
