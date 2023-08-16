@@ -277,6 +277,11 @@ l.facebook.com
 
 !Windows
 apps.microsoft.com
+sls.update.microsoft.com
+*.windowsupdate.com
+fe2.update.microsoft.com
+download.microsoft.com
+watson.telemetry.microsoft.com
 
 !Podcasts
 chtbl.com
@@ -285,3 +290,10 @@ podbean-66359.firebaseio.com
 
 !SnapChat
 gcp.api.snapchat.com
+
+!Samsung
+fota-s3-dn.ospserver.net
+*.ospserver.net
+cfota1.ospserver.net
+cfota3.ospserver.net
+secak-fota-dn.samsungdm.com
