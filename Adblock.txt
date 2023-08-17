@@ -244,3 +244,5 @@ customer-feedbacks.web.roku.com
 liberty.logs.roku.com
 samples.voice.cti.roku.com
 display.ravm.tv
+ads-us-west-*.delivery.roku.com
+ads-us-east-*.delivery.roku.com
