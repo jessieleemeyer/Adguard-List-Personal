@@ -600,3 +600,7 @@ secak-fota-dn.samsungdm.com
 
 !Zedge
 api.prod.zedge.net
+
+!PBS
+PBS.org
+account.PBS.org
