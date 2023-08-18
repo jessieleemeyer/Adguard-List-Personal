@@ -246,3 +246,4 @@ samples.voice.cti.roku.com
 display.ravm.tv
 ads-us-west-*.delivery.roku.com
 ads-us-east-*.delivery.roku.com
+roku.adsmeasurement.com
