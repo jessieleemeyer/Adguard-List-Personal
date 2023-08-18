@@ -65,6 +65,7 @@ cloudfront.net
 device-metrics-us-2.amazon.com
 images-amazon.com
 amazonaws.com
+api.us-east-*.aiv-delivery.net
 
 ! Disney+ Streaming
 cdn.registerdisney.go.com
