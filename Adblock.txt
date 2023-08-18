@@ -247,3 +247,9 @@ display.ravm.tv
 ads-us-west-*.delivery.roku.com
 ads-us-east-*.delivery.roku.com
 roku.adsmeasurement.com
+images.sr.roku.com
+roku.adsmeasurement.com
+
+!Other
+ad.doubleclick.net
+
