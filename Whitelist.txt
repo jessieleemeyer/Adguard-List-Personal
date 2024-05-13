@@ -623,3 +623,4 @@ idp.amazon.work
 amazonhr.sc.omtrdc.net
 idp-assets.amazon.work
 d1ncm6mhz0rrl6.amazon.work
+atoz-api-us-east-1.amazon.work
