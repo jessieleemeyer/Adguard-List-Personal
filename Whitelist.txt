@@ -604,3 +604,17 @@ api.prod.zedge.net
 !PBS
 PBS.org
 account.PBS.org
+
+beacons2.gvt2.com
+cbsinteractive.data.adobedc.net
+saa.paramountplus.com
+imasdk.googleapis.com
+ceres.iad-03.braze.com
+mobile-collector.newrelic.com
+atoz.amazon.work
+atoz-api.amazon.work
+pinpoint.us-east-1.amazonaws.com
+dataplane.rum.us-east-1.amazonaws.com
+unagi-na.amazon.com
+pinpoint.us-east-1.amazonaws.com
+
