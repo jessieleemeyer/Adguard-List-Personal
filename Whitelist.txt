@@ -619,5 +619,5 @@ unagi-na.amazon.com
 pinpoint.us-east-1.amazonaws.com
 atoz-shift-management.amazon.work
 amazon.work
-
+idp.amazon.work
 
