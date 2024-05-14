@@ -107,6 +107,7 @@ fbcdn-creative-a.akamaihd.net
 scontent-lhr3-1.xx.fbcdn.net
 api.facebook.com
 portal.fb.com
+b-graph.facebook.com
 
 ! Github
 github.com
