@@ -64,7 +64,6 @@ cws-sjc2.conviva.com
 cws-iad1.conviva.com
 vod-l3c-eu-north-2.media.dssott.com.c.footprint.net
 disney.demdex.net
-
 !Facebook
 star-mini.c10r.facebook.com	
 star.c10r.facebook.com	
@@ -103,6 +102,11 @@ graph.facebook.com
 lm.facebook.com
 media4.giphy.com
 l.facebook.com
+creative.ak.fbcdn.net
+fbcdn-creative-a.akamaihd.net
+scontent-lhr3-1.xx.fbcdn.net
+api.facebook.com
+portal.fb.com
 
 ! Github
 github.com
