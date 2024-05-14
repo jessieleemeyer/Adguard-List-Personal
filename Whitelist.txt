@@ -266,3 +266,5 @@ pinpoint.us-east-1.amazonaws.com
 dataplane.rum.us-east-1.amazonaws.com
 unagi-na.amazon.com
 pinpoint.us-east-1.amazonaws.com
+d1ncm6mhz0rrl6.amazon.work
+idp-assets.amazon.work
