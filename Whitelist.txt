@@ -144,6 +144,9 @@ video-stats.l.google.com
 geo3.ggpht.com
 yt3.ggpht.com
 drive.google.com
+gvt2.com
+gvt3.com
+
 
 ! Google play services: https://github.com/AdguardTeam/AdguardForAndroid/issues/1894
 googleapis.com$app=com.google.android.gms^$important
@@ -269,3 +272,7 @@ unagi-na.amazon.com
 pinpoint.us-east-1.amazonaws.com
 d1ncm6mhz0rrl6.amazon.work
 idp-assets.amazon.work
+redstone.amazon.work^$important
+atoz-api-us-east-1.amazon.work
+msh.amazon.com
+arcus-uswest.amazon.com
