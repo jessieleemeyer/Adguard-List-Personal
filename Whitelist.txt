@@ -282,3 +282,11 @@ atoz-comms-interstitial.amazon.work
 atoz-badge-photo.amazon.work
 amazonhr.sc.omtrdc.net
 atoz-identity-components-app.amazon.work
+atoz-login.amazon.work
+unagi.amazon.com
+idp.amazon.work
+atoz-identity-components-app.amazon.work
+atoz-comms-interstitial.amazon.work
+atoz-badge-photo.amazon.work
+
+
