@@ -276,3 +276,4 @@ redstone.amazon.work^$important
 atoz-api-us-east-1.amazon.work
 msh.amazon.com
 arcus-uswest.amazon.com
+atoz-login.amazon.work
