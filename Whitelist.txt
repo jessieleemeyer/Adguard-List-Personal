@@ -298,3 +298,6 @@ d1ec9kzsamm71c.amazon.work
 prod.telemetry.pxt.amazon.dev
 atoz-my-hr-katal.amazon.work
 atoz-kudos-app.amazon.work
+atoz-transfer-app.amazon.work
+atoz-my-hr-app.amazon.work
+ingestion.prod.telemetry.pxt.amazon.dev
