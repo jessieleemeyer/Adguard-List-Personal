@@ -297,4 +297,4 @@ d2w0wwxb4e3cph.amazon.work
 d1ec9kzsamm71c.amazon.work
 prod.telemetry.pxt.amazon.dev
 atoz-my-hr-katal.amazon.work
-
+atoz-kudos-app.amazon.work
