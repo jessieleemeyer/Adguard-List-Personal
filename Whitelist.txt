@@ -1,6 +1,6 @@
 ! Amazon Prime Video and Amazon CDN
 api.amazonvideo.com
-device-metrics-us.amazon.com^$important
+device-metrics-us.amazon.com
 fls-eu.amazon.com
 fls-na.amazon.com
 cloudfront.net
@@ -10,12 +10,12 @@ amazonaws.com
 api.us-east-*.aiv-delivery.net
 
 ! Audioscrobbler.com
-ws.audioscrobbler.com^$important
+ws.audioscrobbler.com
 
 ! CBS Television Stream
 cbsi.com
 cbsinteractive.hb.omtrdc.net
-s0.2mdn.net^$important
+s0.2mdn.net
 beacons2.gvt2.com
 cbsinteractive.data.adobedc.net
 saa.paramountplus.com
@@ -122,7 +122,7 @@ p04e.t.en25.com
 t.en25.com
 https://github.com/AdguardTeam/AdguardForAndroid/issues/3419
 store.hispace.hicloud.com$app=com.huawei.gameassistant
-zoom.us^$important
+zoom.us
 https://github.com/AdguardTeam/AdguardForAndroid/issues/3729
 app.adjust.com$app=com.azure.authenticator
 
@@ -149,7 +149,7 @@ gvt3.com
 
 
 ! Google play services: https://github.com/AdguardTeam/AdguardForAndroid/issues/1894
-googleapis.com$app=com.google.android.gms^$important
+googleapis.com$app=com.google.android.gms
 myaccount.google.com$app=com.google.android.gms
 www.google.com$app=com.google.android.gms
 gvt1.com$app=com.google.android.gms
@@ -275,7 +275,7 @@ unagi-na.amazon.com
 pinpoint.us-east-1.amazonaws.com
 d1ncm6mhz0rrl6.amazon.work
 idp-assets.amazon.work
-redstone.amazon.work^$important
+redstone.amazon.work
 atoz-api-us-east-1.amazon.work
 msh.amazon.com
 arcus-uswest.amazon.com
