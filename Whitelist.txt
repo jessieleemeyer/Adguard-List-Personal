@@ -22,6 +22,7 @@ saa.paramountplus.com
 imasdk.googleapis.com
 ceres.iad-03.braze.com
 mobile-collector.newrelic.com
+production-cmp.isgprivacy.cbsi.com
 
 ! Discord
 dis.gd
